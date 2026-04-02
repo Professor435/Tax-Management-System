@@ -67,5 +67,7 @@ File Return: Select taxpayer and enter income details
 Calculate Tax: Go to Tax Calculator, enter income
 Record Payment: Select return and process payment
 
+#TaxManagement #Fintech #Finance #Django #React #FullStack #IncomeTax #GST #TaxCalculation #FilingSystem #Compliance #AuditTrail #TaxpayerPortal #AccountantPortal #ReportGeneration #FinancialYear #WebApp #Database #OpenSource #TaxSoftware
+
 
 contact us for full version (professorshami435@gmail.com)
