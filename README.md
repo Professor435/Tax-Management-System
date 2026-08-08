@@ -10,7 +10,7 @@ Professional, modern appearance
 Dark Mode
 Deep slate backgrounds ( #0f172a to #1e293b )
 Glassmorphism effects with transparency
-Neon accent colors (blue, purple, emerald)
+Neon accent colors (blue, purple, emerald) 
 Reduced eye strain for night use
 Smooth transitions between themes
 🌓 Dark Mode Implementation
